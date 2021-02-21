@@ -1,0 +1,23 @@
+michaelbere, daniel.brown1
+===============================================================================
+Michael Berelejis, ID 203527973, michael.berelejis@mail.huji.ac.il
+Daniel Brown, ID 311340723, daniel.brown1@mail.huji.ac.il
+===============================================================================
+
+                           Project 3 -  Sequential Logic
+                           -----------------------------
+  
+
+Submitted Files
+---------------
+README - description of the project
+a - 
+	Bit.hdl - 1 bit register chip.
+	PC.hdl - A 16-bit counter with load and reset control bits chip.
+	Register.hdl - A 16-bit register chip.
+	RAM8.hdl - Memory of 8 registers, each 16 bit-wide.
+	RAM64.hdl - Memory of 64 registers, each 16 bit-wide.
+b -
+	RAM512.hdl - Memory of 64 registers, each 16 bit-wide.
+	RAM4K.hdl - Memory of 4K registers, each 16 bit-wide.
+	RAM16K.hdl - Memory of 16K registers, each 16 bit-wide.
